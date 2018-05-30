@@ -1,4 +1,3 @@
 gunicorn
-Flask
 boto
 awscli
