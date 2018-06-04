@@ -1,3 +1,13 @@
+brians notes on this 
+
+
+
+
+
+
+
+
+
 # phyton  Sample Application to read s3 buckets 
 
 This repository provides a sample Python web application implemented to read s3 buckets 
